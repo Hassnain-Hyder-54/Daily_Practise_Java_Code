@@ -1,1 +1,1 @@
-# Daily_Practise_Java_Code
+# Daily_Java_Code
